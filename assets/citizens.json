@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Worker",
+        "description": "Used to expand city",
+        "icon": "account-cowboy-hat"
+    },
+    {
+        "id": 2,
+        "name": "Settler",
+        "description": "Builds a new city",
+        "icon": "account-cowboy-hat"
+    },
+    {
+        "id": 3,
+        "name": "Soldier",
+        "description": "Basic infantry",
+        "icon": "account-cowboy-hat"
+    }
+]

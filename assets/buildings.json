@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Houses",
+        "description": "Required for population growth",
+        "icon": "office-building"
+    },
+    {
+        "id": 2,
+        "name": "Barracks",
+        "description": "Train troops",
+        "icon": "office-building"
+    },
+    {
+        "id": 3,
+        "name": "Library",
+        "description": "Increases research points each turn",
+        "icon": "office-building"
+    }
+]
